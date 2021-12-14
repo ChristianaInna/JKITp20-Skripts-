@@ -1,1 +1,1 @@
-# JKITp20-Scripts
+# JKITp20-Skripts
